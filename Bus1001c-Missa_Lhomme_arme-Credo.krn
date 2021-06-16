@@ -1,12 +1,12 @@
-!!!COM:	Busnoys, Antoine
-!!!CDT:	~1430///-1492/11/06
-!!!OPR:	Missa L'homme arm&eacute;
-!!!ONM:	3
-!!!OTL:	Credo
-!!!AGN:	Mass; Credo
-!!!SCT:	Bus1001c
-!!!SCA:	Bus1001c
-!!!voices:	4
+!!!COM: Busnoys, Antoine
+!!!CDT: ~1430///-1492/11/06
+!!!OPR: Missa L'homme arm&eacute;
+!!!ONM: 3
+!!!OTL: Credo
+!!!AGN: Mass; Credo
+!!!SCT: Bus1001c
+!!!SCA: Bus1001c
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -24,6 +24,8 @@
 !!!OMD: Patrem omnipotentem
 *	*rscale:1/2	*	*
 =1-	=1-	=1-	=1-
+!	!LO:TX:Z=30:t=Ne sonites cacefaton, sume lichanos hypaton 	!	!
+!	!LO:TX:Z=6:t=Do not sound a cacophony, take d 	!	!
 0.r	0.r	0G	[0.g
 .	.	1G	.
 =2	=2-	=2	=2
@@ -1172,9 +1174,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Megan K. Eagen 2013/12/19; Rodin 2/22/2014
-!!!END:	2013/12/19/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/03/09/
-!!!ONB:	Translated from MusicXML and edited on 2014/03/09/ by Craig Sapp
+!!!ENC: Megan K. Eagen 2013/12/19; Rodin 2/22/2014
+!!!END: 2013/12/19/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/03/09/
+!!!ONB: Translated from MusicXML and edited on 2014/03/09/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q8c140
