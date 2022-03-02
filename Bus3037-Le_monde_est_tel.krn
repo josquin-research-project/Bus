@@ -1,10 +1,10 @@
-!!!COM:	Busnoys, Antoine
-!!!CDT:	~1430///-1492/11/06
-!!!OTL:	Le monde est tel
-!!!AGN:	Song; Chanson
-!!!SCT:	Bus3037
-!!!SCA:	Bus3037
-!!!voices:	3
+!!!COM: Busnoys, Antoine
+!!!CDT: ~1430///-1492/11/06
+!!!OTL: Le monde est tel
+!!!AGN: Song; Chanson
+!!!SCT: Bus3037
+!!!SCA: Bus3037
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -305,9 +305,9 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 04-13-2015
-!!!END:	2015/05/05/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/09/21/
-!!!ONB:	Translated from MusicXML and edited on 2015/09/21/ by Craig Sapp
+!!!ENC: Chris Gage 04-13-2015
+!!!END: 2015/05/05/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/09/21/
+!!!ONB: Translated from MusicXML and edited on 2015/09/21/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v95,95,150Q16

@@ -1,10 +1,10 @@
-!!!COA:	Busnoys, Antoine
-!!!CDT:	~1430///-1492/11/06
-!!!OTL:	Quant ce viendra
-!!!AGN:	Song; Chanson
-!!!SCT:	Bus3073
-!!!SCA:	Bus3073
-!!!voices:	4
+!!!COA: Busnoys, Antoine
+!!!CDT: ~1430///-1492/11/06
+!!!OTL: Quant ce viendra
+!!!AGN: Song; Chanson
+!!!SCT: Bus3073
+!!!SCA: Bus3073
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -251,9 +251,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Chris Gage 02-12-2015
-!!!END:	2015/02/20/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/05/10/
-!!!ONB:	Translated from MusicXML and edited on 2015/05/10/ by Craig Sapp
+!!!ENC: Chris Gage 02-12-2015
+!!!END: 2015/02/20/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/05/10/
+!!!ONB: Translated from MusicXML and edited on 2015/05/10/ by Craig Sapp
 !!muse2ps: C^Busnoys?/Ockeghem?^i2I150v85,85,85,150Q16

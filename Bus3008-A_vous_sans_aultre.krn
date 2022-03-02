@@ -1,10 +1,10 @@
-!!!COM:	Busnoys, Antoine
-!!!CDT:	~1430///-1492/11/06
-!!!OTL:	A vous sans aultre
-!!!AGN:	Song; Chanson
-!!!SCT:	Bus3008
-!!!SCA:	Bus3008
-!!!voices:	3
+!!!COM: Busnoys, Antoine
+!!!CDT: ~1430///-1492/11/06
+!!!OTL: A vous sans aultre
+!!!AGN: Song; Chanson
+!!!SCT: Bus3008
+!!!SCA: Bus3008
+!!!voices: 3
 **kern	**kern	**text	**text	**text	**kern	**text	**text	**text
 *staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
 *Ivox	*Ivox	*	*	*	*Ivox	*	*	*
@@ -257,9 +257,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 02-16-2015
-!!!END:	2015/10/29/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/11/05/
-!!!ONB:	Translated from MusicXML and edited on 2015/10/30/ by Craig Sapp
+!!!ENC: Chris Gage 02-16-2015
+!!!END: 2015/10/29/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/11/05/
+!!!ONB: Translated from MusicXML and edited on 2015/10/30/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v95,95,120Q16z18c40l2600

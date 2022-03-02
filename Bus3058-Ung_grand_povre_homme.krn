@@ -1,10 +1,10 @@
-!!!COM:	Busnoys, Antoine
-!!!CDT:	~1430///-1492/11/06
-!!!OTL:	Ung grand povre homme
-!!!AGN:	Song; Chanson
-!!!SCT:	Bus3058
-!!!SCA:	Bus3058
-!!!voices:	3
+!!!COM: Busnoys, Antoine
+!!!CDT: ~1430///-1492/11/06
+!!!OTL: Ung grand povre homme
+!!!AGN: Song; Chanson
+!!!SCT: Bus3058
+!!!SCA: Bus3058
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -298,9 +298,9 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 04-22-2015
-!!!END:	2016/02/08/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/02/08/
-!!!ONB:	Translated from MusicXML and edited on 2016/02/08/ by Craig Sapp
+!!!ENC: Chris Gage 04-22-2015
+!!!END: 2016/02/08/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/02/08/
+!!!ONB: Translated from MusicXML and edited on 2016/02/08/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v95,95,150Q16

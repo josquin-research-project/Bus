@@ -1,10 +1,10 @@
-!!!COM:	Busnoys, Antoine
-!!!CDT:	~1430///-1492/11/06
-!!!OTL:	Maintes femmes
-!!!AGN:	Song; Chanson
-!!!SCT:	Bus3039
-!!!SCA:	Bus3039
-!!!voices:	4
+!!!COM: Busnoys, Antoine
+!!!CDT: ~1430///-1492/11/06
+!!!OTL: Maintes femmes
+!!!AGN: Song; Chanson
+!!!SCT: Bus3039
+!!!SCA: Bus3039
+!!!voices: 4
 **kern	**text	**text	**kern	**text	**kern	**text	**kern	**text	**text
 *staff4	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1	*staff1
 *Ivox	*	*	*Ivox	*	*Ivox	*	*Ivox	*	*
@@ -320,9 +320,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 05-13-2015
-!!!END:	2015/10/29/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/10/30/
-!!!ONB:	Translated from MusicXML and edited on 2015/10/30/ by Craig Sapp
+!!!ENC: Chris Gage 05-13-2015
+!!!END: 2015/10/29/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/10/30/
+!!!ONB: Translated from MusicXML and edited on 2015/10/30/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,85,120z18l2600Q16c46

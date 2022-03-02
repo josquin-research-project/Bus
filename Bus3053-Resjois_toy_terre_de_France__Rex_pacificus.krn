@@ -1,10 +1,10 @@
-!!!COM:	Busnoys, Antoine
-!!!CDT:	~1430///-1492/11/06
-!!!OTL:	Resjois toy terre de France / Rex pacificus
-!!!AGN:	Song; Chanson
-!!!SCT:	Bus3053
-!!!SCA:	Bus3053
-!!!voices:	4
+!!!COM: Busnoys, Antoine
+!!!CDT: ~1430///-1492/11/06
+!!!OTL: Resjois toy terre de France / Rex pacificus
+!!!AGN: Song; Chanson
+!!!SCT: Bus3053
+!!!SCA: Bus3053
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -313,9 +313,9 @@
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Chris Gage 04-22-2015
-!!!END:	2016/02/08/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/02/16/
-!!!ONB:	Translated from MusicXML and edited on 2016/02/16/ by Craig Sapp
+!!!ENC: Chris Gage 04-22-2015
+!!!END: 2016/02/08/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/02/16/
+!!!ONB: Translated from MusicXML and edited on 2016/02/16/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,85,150Q16c80

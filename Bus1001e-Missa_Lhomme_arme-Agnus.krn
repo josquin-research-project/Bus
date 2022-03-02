@@ -1,12 +1,12 @@
-!!!COM:	Busnoys, Antoine
-!!!CDT:	~1430///-1492/11/06
-!!!OPR:	Missa L'homme arm&eacute;
-!!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
-!!!SCT:	Bus1001e
-!!!SCA:	Bus1001e
-!!!voices:	4
+!!!COM: Busnoys, Antoine
+!!!CDT: ~1430///-1492/11/06
+!!!OPR: Missa L'homme arm&eacute;
+!!!ONM: 5
+!!!OTL: Agnus Dei
+!!!AGN: Mass; Agnus Dei
+!!!SCT: Bus1001e
+!!!SCA: Bus1001e
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -862,9 +862,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson
-!!!END:	2014/02/22/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/03/09/
-!!!ONB:	Translated from MusicXML and edited on 2014/03/09/ by Craig Sapp
+!!!ENC: Will Watson
+!!!END: 2014/02/22/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/03/09/
+!!!ONB: Translated from MusicXML and edited on 2014/03/09/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16

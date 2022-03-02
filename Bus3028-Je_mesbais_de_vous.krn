@@ -1,10 +1,10 @@
-!!!COM:	Busnoys, Antoine
-!!!CDT:	~1430///-1492/11/06
-!!!OTL:	Je mesbais de vous
-!!!AGN:	Song; Chanson
-!!!SCT:	Bus3028
-!!!SCA:	Bus3028
-!!!voices:	3
+!!!COM: Busnoys, Antoine
+!!!CDT: ~1430///-1492/11/06
+!!!OTL: Je mesbais de vous
+!!!AGN: Song; Chanson
+!!!SCT: Bus3028
+!!!SCA: Bus3028
+!!!voices: 3
 **kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
 *staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
 *Ivox	*	*	*	*Ivox	*	*	*	*Ivox	*	*	*
@@ -217,9 +217,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Chris Gage 04-13-2015
-!!!END:	2015/10/29/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/10/29/
-!!!ONB:	Translated from MusicXML and edited on 2015/10/29/ by Craig Sapp
+!!!ENC: Chris Gage 04-13-2015
+!!!END: 2015/10/29/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/10/29/
+!!!ONB: Translated from MusicXML and edited on 2015/10/29/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v95,95,120Q16z18c60l2600

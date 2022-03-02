@@ -1,10 +1,10 @@
-!!!COM:	Busnoys, Antoine
-!!!CDT:	~1430///-1492/11/06
-!!!OTL:	Anthoni usque limina
-!!!AGN:	Motet
-!!!SCT:	Bus2004
-!!!SCA:	Bus2004
-!!!voices:	5
+!!!COM: Busnoys, Antoine
+!!!CDT: ~1430///-1492/11/06
+!!!OTL: Anthoni usque limina
+!!!AGN: Motet
+!!!SCT: Bus2004
+!!!SCA: Bus2004
+!!!voices: 5
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -1020,9 +1020,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin 2007; Megan K. Eagen 2013/04/30
-!!!END:	2013/04/30/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/01/03/
-!!!ONB:	Translated from MusicXML and edited on 2014/01/03/ by Craig Sapp
+!!!ENC: Jesse Rodin 2007; Megan K. Eagen 2013/04/30
+!!!END: 2013/04/30/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/01/03/
+!!!ONB: Translated from MusicXML and edited on 2014/01/03/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,85,85,130Q16
