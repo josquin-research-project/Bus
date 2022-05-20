@@ -1,10 +1,10 @@
-!!!COM: Busnoys, Antoine
-!!!CDT: ~1430///-1492/11/06
-!!!OTL: In myne zynn
-!!!AGN: Song; Chanson
-!!!SCT: Bus3025
-!!!SCA: Bus3025
-!!!voices: 4
+!!!COM:	Busnoys, Antoine
+!!!CDT:	~1430///-1492/11/06
+!!!OTL:	In myne zynn
+!!!AGN:	Song; Chanson
+!!!SCT:	Bus3025
+!!!SCA:	Bus3025
+!!!voices:	4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -18,7 +18,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-
 !	!	!	!LO:TX:Z=35:t=Ballade
-0G	1G	1g	0g
+0G	1G	1]g	0g
 .	2G	1b-	.
 .	2G	.	.
 =2	=2	=2	=2
@@ -243,7 +243,7 @@
 1r	1G	1g	1b-
 [1A	[1c	1r	1e
 =41	=41	=41	=41
-2A]	0c_	0r	1r
+2A]	0c]	0r	1r
 4G	.	.	.
 4F	.	.	.
 2E	.	.	1e
@@ -386,9 +386,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC: Chris Gage 04-13-2015
-!!!END: 2015/05/05/
-!!!EED: Jesse Rodin
-!!!EEV: 2015/09/21/
-!!!ONB: Translated from MusicXML and edited on 2015/09/21/ by Craig Sapp
+!!!ENC:	Chris Gage 04-13-2015
+!!!END:	2015/05/05/
+!!!EED:	Jesse Rodin
+!!!EEV:	2015/09/21/
+!!!ONB:	Translated from MusicXML and edited on 2015/09/21/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,85,150Q16
