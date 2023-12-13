@@ -1,9 +1,11 @@
+!!!!SEGMENT: Bus/Bus3007-Au_povre_par_necessite.krn
 !!!COM: Busnoys, Antoine
 !!!CDT: ~1430///-1492/11/06
 !!!OTL: Au povre par necessit&eacute;
 !!!AGN: Song; Chanson
 !!!SCT: Bus3007
 !!!SCA: Bus3007
+!!!jrpid: Bus3007
 !!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1

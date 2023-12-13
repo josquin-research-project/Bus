@@ -1,9 +1,11 @@
+!!!!SEGMENT: Bus/Bus3019-En_voyant_sa_dame.krn
 !!!COM: Busnoys, Antoine
 !!!CDT: ~1430///-1492/11/06
 !!!OTL: En voyant sa dame
 !!!AGN: Song; Chanson
 !!!SCT: Bus3019
 !!!SCA: Bus3019
+!!!jrpid: Bus3019
 !!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1

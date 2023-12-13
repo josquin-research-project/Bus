@@ -1,9 +1,11 @@
+!!!!SEGMENT: Bus/Bus3008-A_vous_sans_aultre.krn
 !!!COM: Busnoys, Antoine
 !!!CDT: ~1430///-1492/11/06
 !!!OTL: A vous sans aultre
 !!!AGN: Song; Chanson
 !!!SCT: Bus3008
 !!!SCA: Bus3008
+!!!jrpid: Bus3008
 !!!voices: 3
 **kern	**kern	**text	**text	**text	**kern	**text	**text	**text
 *staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1

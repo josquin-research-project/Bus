@@ -1,3 +1,4 @@
+!!!!SEGMENT: Bus/Bus1001a-Missa_Lhomme_arme-Kyrie.krn
 !!!COM: Busnoys, Antoine
 !!!CDT: ~1430///-1492/11/06/
 !!!OPR: Missa L'homme arm&eacute;
@@ -6,6 +7,7 @@
 !!!AGN: Mass; Kyrie
 !!!SCT: Bus1001a
 !!!SCA: Bus1001a
+!!!jrpid: Bus1001a
 !!!voices: 4
 !!!voices-OPR: 4
 **kern	**kern	**kern	**kern

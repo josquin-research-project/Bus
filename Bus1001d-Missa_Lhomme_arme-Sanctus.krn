@@ -1,3 +1,4 @@
+!!!!SEGMENT: Bus/Bus1001d-Missa_Lhomme_arme-Sanctus.krn
 !!!COM: Busnoys, Antoine
 !!!CDT: ~1430///-1492/11/06
 !!!OPR: Missa L'homme arm&eacute;
@@ -6,6 +7,7 @@
 !!!AGN: Mass; Sanctus
 !!!SCT: Bus1001d
 !!!SCA: Bus1001d
+!!!jrpid: Bus1001d
 !!!voices: 4
 !!!voices-OPR: 4
 **kern	**kern	**kern	**kern

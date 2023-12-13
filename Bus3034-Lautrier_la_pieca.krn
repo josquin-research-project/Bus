@@ -1,9 +1,11 @@
+!!!!SEGMENT: Bus/Bus3034-Lautrier_la_pieca.krn
 !!!COM: Busnoys, Antoine
 !!!CDT: ~1430///-1492/11/06
 !!!OTL: Lautrier la pieca
 !!!AGN: Song; Chanson
 !!!SCT: Bus3034
 !!!SCA: Bus3034
+!!!jrpid: Bus3034
 !!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1

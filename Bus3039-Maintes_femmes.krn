@@ -1,9 +1,11 @@
+!!!!SEGMENT: Bus/Bus3039-Maintes_femmes.krn
 !!!COM: Busnoys, Antoine
 !!!CDT: ~1430///-1492/11/06
 !!!OTL: Maintes femmes
 !!!AGN: Song; Chanson
 !!!SCT: Bus3039
 !!!SCA: Bus3039
+!!!jrpid: Bus3039
 !!!voices: 4
 **kern	**text	**text	**kern	**text	**kern	**text	**kern	**text	**text
 *staff4	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1	*staff1

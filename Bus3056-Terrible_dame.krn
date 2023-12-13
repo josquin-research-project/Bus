@@ -1,9 +1,11 @@
+!!!!SEGMENT: Bus/Bus3056-Terrible_dame.krn
 !!!COM: Busnoys, Antoine
 !!!CDT: ~1430///-1492/11/06
 !!!OTL: Terrible dame
 !!!AGN: Song; Chanson
 !!!SCT: Bus3056
 !!!SCA: Bus3056
+!!!jrpid: Bus3056
 !!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1

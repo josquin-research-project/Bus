@@ -1,9 +1,11 @@
+!!!!SEGMENT: Bus/Bus3040-Ma_plus_quassez.krn
 !!!COM: Busnoys, Antoine
 !!!CDT: ~1430///-1492/11/06
 !!!OTL: Ma plus qu'assez
 !!!AGN: Song; Chanson
 !!!SCT: Bus3040
 !!!SCA: Bus3040
+!!!jrpid: Bus3040
 !!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1

@@ -1,9 +1,11 @@
+!!!!SEGMENT: Bus/Bus2007-In_hydraulis.krn
 !!!COM: Busnoys, Antoine
 !!!CDT: ~1430///-1492/11/06
 !!!OTL: In hydraulis
 !!!AGN: Motet
 !!!SCT: Bus2007
 !!!SCA: Bus2007
+!!!jrpid: Bus2007
 !!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1

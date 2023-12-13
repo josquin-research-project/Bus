@@ -1,9 +1,11 @@
+!!!!SEGMENT: Bus/Bus3050-Quant_vous_me_ferez.krn
 !!!COM: Busnoys, Antoine
 !!!CDT: ~1430///-1492/11/06
 !!!OTL: Quant vous me ferez
 !!!AGN: Song; Chanson
 !!!SCT: Bus3050
 !!!SCA: Bus3050
+!!!jrpid: Bus3050
 !!!voices: 3
 **kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
 *staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1

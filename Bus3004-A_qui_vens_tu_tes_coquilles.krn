@@ -1,9 +1,11 @@
+!!!!SEGMENT: Bus/Bus3004-A_qui_vens_tu_tes_coquilles.krn
 !!!COM: Busnoys, Antoine
 !!!CDT: ~1430///-1492/11/06
 !!!OTL: A qui vens tu tes coquilles
 !!!AGN: Song; Chanson; Rondeau
 !!!SCT: Bus3004
 !!!SCA: Bus3004
+!!!jrpid: Bus3004
 !!!voices: 3
 **kern	**text	**text	**text	**kern	**text	**text	**text	**kern	**text	**text	**text
 *staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1

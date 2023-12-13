@@ -1,9 +1,11 @@
+!!!!SEGMENT: Bus/Bus3010-Bone_chere.krn
 !!!COM: Busnoys, Antoine
 !!!CDT: ~1430///-1492/11/06
 !!!OTL: Bone chere
 !!!AGN: Song; Chanson
 !!!SCT: Bus3010
 !!!SCA: Bus3010
+!!!jrpid: Bus3010
 !!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1

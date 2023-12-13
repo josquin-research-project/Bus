@@ -1,9 +1,11 @@
+!!!!SEGMENT: Bus/Bus3025-In_myne_zynn.krn
 !!!COM:	Busnoys, Antoine
 !!!CDT:	~1430///-1492/11/06
 !!!OTL:	In myne zynn
 !!!AGN:	Song; Chanson
 !!!SCT:	Bus3025
 !!!SCA:	Bus3025
+!!!jrpid: Bus3025
 !!!voices:	4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
